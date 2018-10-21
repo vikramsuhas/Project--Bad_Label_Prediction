@@ -1,0 +1,6 @@
+Project 2 - GoodBank - Bad_Label_Prediction.
+
+To predict customer who might default in future based on the historical data.
+1. Customer Account Details
+2. Customer Demographic details
+3. Customer Enquiry details

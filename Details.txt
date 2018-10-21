@@ -7,3 +7,4 @@ To predict customer who might default in future based on the historical data.
 
 EDA - To analyse data and to remove outliers and anamolies.
     - Identify important features
+    - Data Visualization
